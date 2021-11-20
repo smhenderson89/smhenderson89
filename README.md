@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smhenderson89&label=Profile%20views&color=0e75b6&style=flat" alt="smhenderson89" /> </p>
 
-- 🔭 I’m currently working on [Easy Recipe](https://github.com/smhenderson89/easyRecipe)
+- 🔭 I’m currently working on [Recommend Me](https://github.com/mwoolf87/recommendme)
 
 - 🌱 I’m currently learning **React and Redux**
 
