@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **scott.mc.henderson@gmail.com**
 
-- ⚡ Fun fact **I love telling dad jokes**
+- ⚡ Fun fact **I love telling dad jokes**. I once submitted ten jokes to a joke competition to see if one would win. Unforunately, no pun-in-ten-did.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
