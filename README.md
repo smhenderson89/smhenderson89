@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smhenderson89&label=Profile%20views&color=0e75b6&style=flat" alt="smhenderson89" /> </p>
 
-- 🔭 I’m currently working on [Recommend Me](https://github.com/mwoolf87/recommendme)
+- 🔭 I’m currently working on [Media Watch list](https://github.com/mwoolf87/recommendme)
 
 - 🌱 I’m currently learning **React and Redux**
 
-- 👨‍💻 All of my projects are available at [TBD](TBD)
+- 👨‍💻 All of my projects are available at my [Porfolio](https://scotthenderson.netlify.app)
 
 - 📫 How to reach me **scott.mc.henderson@gmail.com**
-
-- 📄 Know about my experiences [TBD](TBD)
 
 - ⚡ Fun fact **I love telling dad jokes**
 
