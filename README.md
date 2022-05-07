@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [FreeCodeCamp Courses](https://www.freecodecamp.org/learn)
 
-- 🌱 I’m currently learning **React and Redux**
+- 🌱 I’m currently learning **PHP, SASS, Wordpress**
 
 - 👨‍💻 All of my projects are available at my [Porfolio](https://scotthenderson.netlify.app)
 
