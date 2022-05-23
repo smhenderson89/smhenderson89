@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smhenderson89&label=Profile%20views&color=0e75b6&style=flat" alt="smhenderson89" /> </p>
 
-- 🔭 I’m currently working on [FreeCodeCamp Courses](https://www.freecodecamp.org/learn)
+- 🔭 I’m currently working on [FreeCodeCamp Courses](https://www.freecodecamp.org/learn), [Wordpress Website](https://www.youtube.com/watch?v=O79pJ7qXwoE)
 
 - 🌱 I’m currently learning **PHP, SASS, Wordpress**
 
