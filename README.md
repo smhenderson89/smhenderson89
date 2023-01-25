@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smhenderson89&label=Profile%20views&color=0e75b6&style=flat" alt="smhenderson89" /> </p>
 
-- 🔭 I’m currently working on [FreeCodeCamp Courses](https://www.freecodecamp.org/learn), [Wordpress Website](https://www.youtube.com/watch?v=O79pJ7qXwoE)
+- 🔭 I’m currently working on [FreeCodeCamp Courses](https://www.freecodecamp.org/learn) and [AdjacentLetters](https://github.com/smhenderson89/adjacentLetters), a project using Graph Theory to determine the shortest path between letters on a keyboard.
 
-- 🌱 I’m currently learning **PHP, SASS, Wordpress**
+- 🌱 I’m currently learning **SASS, NextJS**
 
 - 👨‍💻 All of my projects are available at my [Porfolio](https://scotthenderson.netlify.app)
 
