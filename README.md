@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [FreeCodeCamp Courses](https://www.freecodecamp.org/learn) and [AdjacentLetters](https://github.com/smhenderson89/adjacentLetters), a project using Graph Theory to determine the shortest path between letters on a keyboard.
 
-- 🌱 I’m currently learning **SASS, NextJS**
+- 🌱 I’m currently learning **Unit Testing, Graph Theory**
 
 - 👨‍💻 All of my projects are available at my [Porfolio](https://scotthenderson.netlify.app)
 
