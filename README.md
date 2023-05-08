@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smhenderson89&label=Profile%20views&color=0e75b6&style=flat" alt="smhenderson89" /> </p>
 
-- 🔭 I’m currently working on [FreeCodeCamp Courses](https://www.freecodecamp.org/learn) and [AdjacentLetters](https://github.com/smhenderson89/adjacentLetters), a project using Graph Theory to determine the shortest path between letters on a keyboard.
+- 🔭 I’m currently working on Unit Testing through [Udemy](https://www.freecodecamp.org/learn](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/learn/lecture/31877676#overview)) and [AdjacentLetters](https://github.com/smhenderson89/adjacentLetters), a project using Graph Theory to determine the shortest path between letters on a keyboard.
 
-- 🌱 I’m currently learning **Unit Testing, Graph Theory**
+- 🌱 I’m currently learning **Unit Testing**
 
 - 👨‍💻 All of my projects are available at my [Porfolio](https://scotthenderson.netlify.app)
 
