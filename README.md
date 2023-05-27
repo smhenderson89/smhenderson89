@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Unit Testing through [Udemy](https://www.freecodecamp.org/learn](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/learn/lecture/31877676#overview)) and [AdjacentLetters](https://github.com/smhenderson89/adjacentLetters), a project using Graph Theory to determine the shortest path between letters on a keyboard.
 
-- 🌱 I’m currently learning **Unit Testing**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at my [Porfolio](https://scotthenderson.netlify.app)
 
